@@ -1,7 +1,6 @@
 # LinearVerse: A Hands On Journey Through Linear Models
-![yusuf-onuk-rB15dfZHzLI-unsplash](https://github.com/user-attachments/assets/34531bc9-6de8-404b-8455-d7a02f32dd0c)
 
-Hey everyone!
+Hey everyone,
 
 I had this idea to explain each machine learning algorithm and model in its own repo.  
 I’ll go through everything related to the algorithm, break it down in a simple way,  
@@ -15,5 +14,12 @@ I’ll be summarizing and explaining things based on some great resources like:
 Honestly, this is part of how I study writing and explaining things in my own way helps me really understand each topic, since everything in ML builds on each other.
 
 I’ll also be sharing links to the projects related to each topic I cover.
+
+## Projects
+
+- **Car Vibes: Linear & Lasso Regression**  
+  https://github.com/MoMo790-m/car-vibes-eda-88-97
+
+  ---
 
 Hope you find the idea useful and enjoy learning along the way!
